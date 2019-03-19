@@ -1,4 +1,4 @@
-[Markdown tutorial](https://github.com/guodongxiaren/README/blob/master/README.md "展示书写README的各种markdown语法")
+Before editing, please refer to [Markdown tutorial](https://github.com/guodongxiaren/README/blob/master/README.md "展示书写README的各种markdown语法")
 
 
 # **需求描述**
